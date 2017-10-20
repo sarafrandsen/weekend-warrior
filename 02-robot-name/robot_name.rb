@@ -1,1 +1,3 @@
+class RobotName
 
+  def initialize
